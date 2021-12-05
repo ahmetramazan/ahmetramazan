@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ahmetramazan.
-- 👀 I’m interested in Cryptography.
-- 🌱 I’m currently learning Rust.
+- 👋 Hi, I’m @ahmetramazan. I’m a PhD candidate (Cryptography).
 - 💞️ I’m looking to collaborate on implementing cryptographic protocols.
-- 📫 How to reach me 
+- 📫 One can reach me via e-mail (a.r.agirtas@gmail.com)
 
 <!---
 ahmetramazan/ahmetramazan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
