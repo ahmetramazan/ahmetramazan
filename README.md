@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmetramazan. I’m a PhD candidate (Cryptography).
+- 👋 Hi, I’m @ahmetramazan. I’m a blockchain and cryptography researcher.
 - 💞️ I’m looking to collaborate on implementing cryptographic protocols.
 - 📫 One can reach me via e-mail (a.r.agirtas@gmail.com)
 
